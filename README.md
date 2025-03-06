@@ -2,9 +2,9 @@
 # 👨🏽‍💻 Luiz Fellipe - DevAlvesz
 **`Desenvolvedor Backend`**
 
-Me chamo Luiz Fellipe, tenho 18 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Bacharel em Engenharia de Softaware na UNINTER. Sou fascinado por tecnologia e atualmente estou estudando Backend com Java.
+Me chamo Luiz Fellipe, tenho 18 anos e sou natural do Rio de Janeiro. Atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas na UNINTER. Sou fascinado por tecnologia e atualmente estou estudando Backend com Java.
 
-My name is Luiz Fellipe, I'm 18 years old and originally from Rio de Janeiro. I'm currently studying a Bachelor's degree in Softaware Engineering at UNINTER. I'm fascinated by technology and I'm currently studying Backend with Java.
+My name is Luiz Fellipe, I'm 18 years old and originally from Rio de Janeiro. I am currently studying Technology in Systems Analysis and Development at UNINTER. I'm fascinated by technology and I'm currently studying Backend with Java.
 
 
 ---
